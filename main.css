@@ -137,6 +137,10 @@ ul {
   width: 60%;
 }
 
+.bold-text {
+  font-weight: 600;
+}
+
 .subtitle-date {
   width: 40%;
   text-align: end;
